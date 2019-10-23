@@ -3,4 +3,4 @@
 
 
 ## The progression about this project, you will find here: :clipboard:
->:link: [HayatoG Channel on Telegram](https://t.me/hayatog18) 
+>:link: [HayatoG Channel on Telegram](https://t.me/hayatog) 
